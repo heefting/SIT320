@@ -1,0 +1,10 @@
+digraph {
+	S -> E [label=8 color=red]
+	S -> A [label=10]
+	E -> D [label=1 color=red]
+	A -> C [label=2 color=red]
+	D -> A [label=-4 color=red]
+	D -> C [label=-1]
+	B -> A [label=1]
+	C -> B [label=-2]
+}

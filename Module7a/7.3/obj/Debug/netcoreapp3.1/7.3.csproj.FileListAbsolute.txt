@@ -1,0 +1,25 @@
+/Users/nayyarz/Desktop/SIT232_T2_2020/CookFolder/W7/Demo_Lecture/7.3/bin/Debug/netcoreapp3.1/7.3.deps.json
+/Users/nayyarz/Desktop/SIT232_T2_2020/CookFolder/W7/Demo_Lecture/7.3/bin/Debug/netcoreapp3.1/7.3.runtimeconfig.json
+/Users/nayyarz/Desktop/SIT232_T2_2020/CookFolder/W7/Demo_Lecture/7.3/bin/Debug/netcoreapp3.1/7.3.runtimeconfig.dev.json
+/Users/nayyarz/Desktop/SIT232_T2_2020/CookFolder/W7/Demo_Lecture/7.3/bin/Debug/netcoreapp3.1/7.3.dll
+/Users/nayyarz/Desktop/SIT232_T2_2020/CookFolder/W7/Demo_Lecture/7.3/bin/Debug/netcoreapp3.1/7.3.pdb
+/Users/nayyarz/Desktop/SIT232_T2_2020/CookFolder/W7/Demo_Lecture/7.3/obj/Debug/netcoreapp3.1/7.3.csprojAssemblyReference.cache
+/Users/nayyarz/Desktop/SIT232_T2_2020/CookFolder/W7/Demo_Lecture/7.3/obj/Debug/netcoreapp3.1/7.3.AssemblyInfoInputs.cache
+/Users/nayyarz/Desktop/SIT232_T2_2020/CookFolder/W7/Demo_Lecture/7.3/obj/Debug/netcoreapp3.1/7.3.AssemblyInfo.cs
+/Users/nayyarz/Desktop/SIT232_T2_2020/CookFolder/W7/Demo_Lecture/7.3/obj/Debug/netcoreapp3.1/7.3.csproj.CoreCompileInputs.cache
+/Users/nayyarz/Desktop/SIT232_T2_2020/CookFolder/W7/Demo_Lecture/7.3/obj/Debug/netcoreapp3.1/7.3.dll
+/Users/nayyarz/Desktop/SIT232_T2_2020/CookFolder/W7/Demo_Lecture/7.3/obj/Debug/netcoreapp3.1/7.3.pdb
+/Users/nayyarz/Desktop/SIT232_T2_2020/CookFolder/W7/Demo_Lecture/7.3/obj/Debug/netcoreapp3.1/7.3.genruntimeconfig.cache
+D:\Uni\Advanced Algorithems\GitStuff\SIT320\Module7a\7.3\bin\Debug\netcoreapp3.1\7.3.exe
+D:\Uni\Advanced Algorithems\GitStuff\SIT320\Module7a\7.3\bin\Debug\netcoreapp3.1\7.3.deps.json
+D:\Uni\Advanced Algorithems\GitStuff\SIT320\Module7a\7.3\bin\Debug\netcoreapp3.1\7.3.runtimeconfig.json
+D:\Uni\Advanced Algorithems\GitStuff\SIT320\Module7a\7.3\bin\Debug\netcoreapp3.1\7.3.runtimeconfig.dev.json
+D:\Uni\Advanced Algorithems\GitStuff\SIT320\Module7a\7.3\bin\Debug\netcoreapp3.1\7.3.dll
+D:\Uni\Advanced Algorithems\GitStuff\SIT320\Module7a\7.3\bin\Debug\netcoreapp3.1\7.3.pdb
+D:\Uni\Advanced Algorithems\GitStuff\SIT320\Module7a\7.3\obj\Debug\netcoreapp3.1\7.3.csprojAssemblyReference.cache
+D:\Uni\Advanced Algorithems\GitStuff\SIT320\Module7a\7.3\obj\Debug\netcoreapp3.1\7.3.AssemblyInfoInputs.cache
+D:\Uni\Advanced Algorithems\GitStuff\SIT320\Module7a\7.3\obj\Debug\netcoreapp3.1\7.3.AssemblyInfo.cs
+D:\Uni\Advanced Algorithems\GitStuff\SIT320\Module7a\7.3\obj\Debug\netcoreapp3.1\7.3.csproj.CoreCompileInputs.cache
+D:\Uni\Advanced Algorithems\GitStuff\SIT320\Module7a\7.3\obj\Debug\netcoreapp3.1\7.3.dll
+D:\Uni\Advanced Algorithems\GitStuff\SIT320\Module7a\7.3\obj\Debug\netcoreapp3.1\7.3.pdb
+D:\Uni\Advanced Algorithems\GitStuff\SIT320\Module7a\7.3\obj\Debug\netcoreapp3.1\7.3.genruntimeconfig.cache

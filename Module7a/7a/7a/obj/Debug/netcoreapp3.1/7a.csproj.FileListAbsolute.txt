@@ -1,0 +1,13 @@
+D:\Uni\Advanced Algorithems\GitStuff\SIT320\Module7a\7a\7a\obj\Debug\netcoreapp3.1\7a.csprojAssemblyReference.cache
+D:\Uni\Advanced Algorithems\GitStuff\SIT320\Module7a\7a\7a\obj\Debug\netcoreapp3.1\7a.AssemblyInfoInputs.cache
+D:\Uni\Advanced Algorithems\GitStuff\SIT320\Module7a\7a\7a\obj\Debug\netcoreapp3.1\7a.AssemblyInfo.cs
+D:\Uni\Advanced Algorithems\GitStuff\SIT320\Module7a\7a\7a\obj\Debug\netcoreapp3.1\7a.csproj.CoreCompileInputs.cache
+D:\Uni\Advanced Algorithems\GitStuff\SIT320\Module7a\7a\7a\bin\Debug\netcoreapp3.1\7a.exe
+D:\Uni\Advanced Algorithems\GitStuff\SIT320\Module7a\7a\7a\bin\Debug\netcoreapp3.1\7a.deps.json
+D:\Uni\Advanced Algorithems\GitStuff\SIT320\Module7a\7a\7a\bin\Debug\netcoreapp3.1\7a.runtimeconfig.json
+D:\Uni\Advanced Algorithems\GitStuff\SIT320\Module7a\7a\7a\bin\Debug\netcoreapp3.1\7a.runtimeconfig.dev.json
+D:\Uni\Advanced Algorithems\GitStuff\SIT320\Module7a\7a\7a\bin\Debug\netcoreapp3.1\7a.dll
+D:\Uni\Advanced Algorithems\GitStuff\SIT320\Module7a\7a\7a\bin\Debug\netcoreapp3.1\7a.pdb
+D:\Uni\Advanced Algorithems\GitStuff\SIT320\Module7a\7a\7a\obj\Debug\netcoreapp3.1\7a.dll
+D:\Uni\Advanced Algorithems\GitStuff\SIT320\Module7a\7a\7a\obj\Debug\netcoreapp3.1\7a.pdb
+D:\Uni\Advanced Algorithems\GitStuff\SIT320\Module7a\7a\7a\obj\Debug\netcoreapp3.1\7a.genruntimeconfig.cache

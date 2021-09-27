@@ -1,0 +1,36 @@
+/Users/nayyarz/Desktop/SIT232_T2_2020/CookFolder/W8/Demo_Lecture/observer/bin/Debug/netcoreapp3.1/observer.deps.json
+/Users/nayyarz/Desktop/SIT232_T2_2020/CookFolder/W8/Demo_Lecture/observer/bin/Debug/netcoreapp3.1/observer.runtimeconfig.json
+/Users/nayyarz/Desktop/SIT232_T2_2020/CookFolder/W8/Demo_Lecture/observer/bin/Debug/netcoreapp3.1/observer.runtimeconfig.dev.json
+/Users/nayyarz/Desktop/SIT232_T2_2020/CookFolder/W8/Demo_Lecture/observer/bin/Debug/netcoreapp3.1/observer.dll
+/Users/nayyarz/Desktop/SIT232_T2_2020/CookFolder/W8/Demo_Lecture/observer/bin/Debug/netcoreapp3.1/observer.pdb
+/Users/nayyarz/Desktop/SIT232_T2_2020/CookFolder/W8/Demo_Lecture/observer/obj/Debug/netcoreapp3.1/observer.csprojAssemblyReference.cache
+/Users/nayyarz/Desktop/SIT232_T2_2020/CookFolder/W8/Demo_Lecture/observer/obj/Debug/netcoreapp3.1/observer.AssemblyInfoInputs.cache
+/Users/nayyarz/Desktop/SIT232_T2_2020/CookFolder/W8/Demo_Lecture/observer/obj/Debug/netcoreapp3.1/observer.AssemblyInfo.cs
+/Users/nayyarz/Desktop/SIT232_T2_2020/CookFolder/W8/Demo_Lecture/observer/obj/Debug/netcoreapp3.1/observer.csproj.CoreCompileInputs.cache
+/Users/nayyarz/Desktop/SIT232_T2_2020/CookFolder/W8/Demo_Lecture/observer/obj/Debug/netcoreapp3.1/observer.dll
+/Users/nayyarz/Desktop/SIT232_T2_2020/CookFolder/W8/Demo_Lecture/observer/obj/Debug/netcoreapp3.1/observer.pdb
+/Users/nayyarz/Desktop/SIT232_T2_2020/CookFolder/W8/Demo_Lecture/observer/obj/Debug/netcoreapp3.1/observer.genruntimeconfig.cache
+/Users/nayyarz/Teaching/SIT232/Nayyar_T2_2020/CookFolder/W8/Demo_Lecture/observer/bin/Debug/netcoreapp3.1/observer.deps.json
+/Users/nayyarz/Teaching/SIT232/Nayyar_T2_2020/CookFolder/W8/Demo_Lecture/observer/bin/Debug/netcoreapp3.1/observer.runtimeconfig.json
+/Users/nayyarz/Teaching/SIT232/Nayyar_T2_2020/CookFolder/W8/Demo_Lecture/observer/bin/Debug/netcoreapp3.1/observer.runtimeconfig.dev.json
+/Users/nayyarz/Teaching/SIT232/Nayyar_T2_2020/CookFolder/W8/Demo_Lecture/observer/bin/Debug/netcoreapp3.1/observer.dll
+/Users/nayyarz/Teaching/SIT232/Nayyar_T2_2020/CookFolder/W8/Demo_Lecture/observer/bin/Debug/netcoreapp3.1/observer.pdb
+/Users/nayyarz/Teaching/SIT232/Nayyar_T2_2020/CookFolder/W8/Demo_Lecture/observer/obj/Debug/netcoreapp3.1/observer.csprojAssemblyReference.cache
+/Users/nayyarz/Teaching/SIT232/Nayyar_T2_2020/CookFolder/W8/Demo_Lecture/observer/obj/Debug/netcoreapp3.1/observer.AssemblyInfoInputs.cache
+/Users/nayyarz/Teaching/SIT232/Nayyar_T2_2020/CookFolder/W8/Demo_Lecture/observer/obj/Debug/netcoreapp3.1/observer.AssemblyInfo.cs
+/Users/nayyarz/Teaching/SIT232/Nayyar_T2_2020/CookFolder/W8/Demo_Lecture/observer/obj/Debug/netcoreapp3.1/observer.csproj.CoreCompileInputs.cache
+/Users/nayyarz/Teaching/SIT232/Nayyar_T2_2020/CookFolder/W8/Demo_Lecture/observer/obj/Debug/netcoreapp3.1/observer.dll
+/Users/nayyarz/Teaching/SIT232/Nayyar_T2_2020/CookFolder/W8/Demo_Lecture/observer/obj/Debug/netcoreapp3.1/observer.pdb
+/Users/nayyarz/Teaching/SIT232/Nayyar_T2_2020/CookFolder/W8/Demo_Lecture/observer/obj/Debug/netcoreapp3.1/observer.genruntimeconfig.cache
+D:\Uni\Advanced Algorithems\GitStuff\SIT320\Module7b\Mod_7b\observer\obj\Debug\netcoreapp3.1\observer.AssemblyInfoInputs.cache
+D:\Uni\Advanced Algorithems\GitStuff\SIT320\Module7b\Mod_7b\observer\obj\Debug\netcoreapp3.1\observer.AssemblyInfo.cs
+D:\Uni\Advanced Algorithems\GitStuff\SIT320\Module7b\Mod_7b\observer\obj\Debug\netcoreapp3.1\observer.csproj.CoreCompileInputs.cache
+D:\Uni\Advanced Algorithems\GitStuff\SIT320\Module7b\Mod_7b\observer\obj\Debug\netcoreapp3.1\observer.dll
+D:\Uni\Advanced Algorithems\GitStuff\SIT320\Module7b\Mod_7b\observer\obj\Debug\netcoreapp3.1\observer.pdb
+D:\Uni\Advanced Algorithems\GitStuff\SIT320\Module7b\Mod_7b\observer\bin\Debug\netcoreapp3.1\observer.exe
+D:\Uni\Advanced Algorithems\GitStuff\SIT320\Module7b\Mod_7b\observer\bin\Debug\netcoreapp3.1\observer.deps.json
+D:\Uni\Advanced Algorithems\GitStuff\SIT320\Module7b\Mod_7b\observer\bin\Debug\netcoreapp3.1\observer.runtimeconfig.json
+D:\Uni\Advanced Algorithems\GitStuff\SIT320\Module7b\Mod_7b\observer\bin\Debug\netcoreapp3.1\observer.runtimeconfig.dev.json
+D:\Uni\Advanced Algorithems\GitStuff\SIT320\Module7b\Mod_7b\observer\bin\Debug\netcoreapp3.1\observer.dll
+D:\Uni\Advanced Algorithems\GitStuff\SIT320\Module7b\Mod_7b\observer\bin\Debug\netcoreapp3.1\observer.pdb
+D:\Uni\Advanced Algorithems\GitStuff\SIT320\Module7b\Mod_7b\observer\obj\Debug\netcoreapp3.1\observer.genruntimeconfig.cache

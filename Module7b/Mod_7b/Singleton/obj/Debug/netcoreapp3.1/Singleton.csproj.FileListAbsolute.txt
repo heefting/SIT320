@@ -1,0 +1,37 @@
+/Users/nayyarz/Desktop/SIT232_T2_2020/CookFolder/W8/Demo_Lecture/Singleton/bin/Debug/netcoreapp3.1/Singleton.deps.json
+/Users/nayyarz/Desktop/SIT232_T2_2020/CookFolder/W8/Demo_Lecture/Singleton/bin/Debug/netcoreapp3.1/Singleton.runtimeconfig.json
+/Users/nayyarz/Desktop/SIT232_T2_2020/CookFolder/W8/Demo_Lecture/Singleton/bin/Debug/netcoreapp3.1/Singleton.runtimeconfig.dev.json
+/Users/nayyarz/Desktop/SIT232_T2_2020/CookFolder/W8/Demo_Lecture/Singleton/bin/Debug/netcoreapp3.1/Singleton.dll
+/Users/nayyarz/Desktop/SIT232_T2_2020/CookFolder/W8/Demo_Lecture/Singleton/bin/Debug/netcoreapp3.1/Singleton.pdb
+/Users/nayyarz/Desktop/SIT232_T2_2020/CookFolder/W8/Demo_Lecture/Singleton/obj/Debug/netcoreapp3.1/Singleton.csprojAssemblyReference.cache
+/Users/nayyarz/Desktop/SIT232_T2_2020/CookFolder/W8/Demo_Lecture/Singleton/obj/Debug/netcoreapp3.1/Singleton.AssemblyInfoInputs.cache
+/Users/nayyarz/Desktop/SIT232_T2_2020/CookFolder/W8/Demo_Lecture/Singleton/obj/Debug/netcoreapp3.1/Singleton.AssemblyInfo.cs
+/Users/nayyarz/Desktop/SIT232_T2_2020/CookFolder/W8/Demo_Lecture/Singleton/obj/Debug/netcoreapp3.1/Singleton.csproj.CoreCompileInputs.cache
+/Users/nayyarz/Desktop/SIT232_T2_2020/CookFolder/W8/Demo_Lecture/Singleton/obj/Debug/netcoreapp3.1/Singleton.dll
+/Users/nayyarz/Desktop/SIT232_T2_2020/CookFolder/W8/Demo_Lecture/Singleton/obj/Debug/netcoreapp3.1/Singleton.pdb
+/Users/nayyarz/Desktop/SIT232_T2_2020/CookFolder/W8/Demo_Lecture/Singleton/obj/Debug/netcoreapp3.1/Singleton.genruntimeconfig.cache
+/Users/nayyarz/Teaching/SIT232/Nayyar_T2_2020/CookFolder/W8/Demo_Lecture/Singleton/bin/Debug/netcoreapp3.1/Singleton.deps.json
+/Users/nayyarz/Teaching/SIT232/Nayyar_T2_2020/CookFolder/W8/Demo_Lecture/Singleton/bin/Debug/netcoreapp3.1/Singleton.runtimeconfig.json
+/Users/nayyarz/Teaching/SIT232/Nayyar_T2_2020/CookFolder/W8/Demo_Lecture/Singleton/bin/Debug/netcoreapp3.1/Singleton.runtimeconfig.dev.json
+/Users/nayyarz/Teaching/SIT232/Nayyar_T2_2020/CookFolder/W8/Demo_Lecture/Singleton/bin/Debug/netcoreapp3.1/Singleton.dll
+/Users/nayyarz/Teaching/SIT232/Nayyar_T2_2020/CookFolder/W8/Demo_Lecture/Singleton/bin/Debug/netcoreapp3.1/Singleton.pdb
+/Users/nayyarz/Teaching/SIT232/Nayyar_T2_2020/CookFolder/W8/Demo_Lecture/Singleton/obj/Debug/netcoreapp3.1/Singleton.csprojAssemblyReference.cache
+/Users/nayyarz/Teaching/SIT232/Nayyar_T2_2020/CookFolder/W8/Demo_Lecture/Singleton/obj/Debug/netcoreapp3.1/Singleton.AssemblyInfoInputs.cache
+/Users/nayyarz/Teaching/SIT232/Nayyar_T2_2020/CookFolder/W8/Demo_Lecture/Singleton/obj/Debug/netcoreapp3.1/Singleton.AssemblyInfo.cs
+/Users/nayyarz/Teaching/SIT232/Nayyar_T2_2020/CookFolder/W8/Demo_Lecture/Singleton/obj/Debug/netcoreapp3.1/Singleton.csproj.CoreCompileInputs.cache
+/Users/nayyarz/Teaching/SIT232/Nayyar_T2_2020/CookFolder/W8/Demo_Lecture/Singleton/obj/Debug/netcoreapp3.1/Singleton.dll
+/Users/nayyarz/Teaching/SIT232/Nayyar_T2_2020/CookFolder/W8/Demo_Lecture/Singleton/obj/Debug/netcoreapp3.1/Singleton.pdb
+/Users/nayyarz/Teaching/SIT232/Nayyar_T2_2020/CookFolder/W8/Demo_Lecture/Singleton/obj/Debug/netcoreapp3.1/Singleton.genruntimeconfig.cache
+D:\Uni\Advanced Algorithems\GitStuff\SIT320\Module7b\Mod_7b\Singleton\obj\Debug\netcoreapp3.1\Singleton.csprojAssemblyReference.cache
+D:\Uni\Advanced Algorithems\GitStuff\SIT320\Module7b\Mod_7b\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfoInputs.cache
+D:\Uni\Advanced Algorithems\GitStuff\SIT320\Module7b\Mod_7b\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfo.cs
+D:\Uni\Advanced Algorithems\GitStuff\SIT320\Module7b\Mod_7b\Singleton\obj\Debug\netcoreapp3.1\Singleton.csproj.CoreCompileInputs.cache
+D:\Uni\Advanced Algorithems\GitStuff\SIT320\Module7b\Mod_7b\Singleton\obj\Debug\netcoreapp3.1\Singleton.dll
+D:\Uni\Advanced Algorithems\GitStuff\SIT320\Module7b\Mod_7b\Singleton\obj\Debug\netcoreapp3.1\Singleton.pdb
+D:\Uni\Advanced Algorithems\GitStuff\SIT320\Module7b\Mod_7b\Singleton\bin\Debug\netcoreapp3.1\Singleton.exe
+D:\Uni\Advanced Algorithems\GitStuff\SIT320\Module7b\Mod_7b\Singleton\bin\Debug\netcoreapp3.1\Singleton.deps.json
+D:\Uni\Advanced Algorithems\GitStuff\SIT320\Module7b\Mod_7b\Singleton\bin\Debug\netcoreapp3.1\Singleton.runtimeconfig.json
+D:\Uni\Advanced Algorithems\GitStuff\SIT320\Module7b\Mod_7b\Singleton\bin\Debug\netcoreapp3.1\Singleton.runtimeconfig.dev.json
+D:\Uni\Advanced Algorithems\GitStuff\SIT320\Module7b\Mod_7b\Singleton\bin\Debug\netcoreapp3.1\Singleton.dll
+D:\Uni\Advanced Algorithems\GitStuff\SIT320\Module7b\Mod_7b\Singleton\bin\Debug\netcoreapp3.1\Singleton.pdb
+D:\Uni\Advanced Algorithems\GitStuff\SIT320\Module7b\Mod_7b\Singleton\obj\Debug\netcoreapp3.1\Singleton.genruntimeconfig.cache

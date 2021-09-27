@@ -1,0 +1,12 @@
+/Users/nayyarz/Desktop/SIT232_T2_2020/CookFolder/W8/Demo_Lecture/facade/bin/Debug/netcoreapp3.1/facade.deps.json
+/Users/nayyarz/Desktop/SIT232_T2_2020/CookFolder/W8/Demo_Lecture/facade/bin/Debug/netcoreapp3.1/facade.runtimeconfig.json
+/Users/nayyarz/Desktop/SIT232_T2_2020/CookFolder/W8/Demo_Lecture/facade/bin/Debug/netcoreapp3.1/facade.runtimeconfig.dev.json
+/Users/nayyarz/Desktop/SIT232_T2_2020/CookFolder/W8/Demo_Lecture/facade/bin/Debug/netcoreapp3.1/facade.dll
+/Users/nayyarz/Desktop/SIT232_T2_2020/CookFolder/W8/Demo_Lecture/facade/bin/Debug/netcoreapp3.1/facade.pdb
+/Users/nayyarz/Desktop/SIT232_T2_2020/CookFolder/W8/Demo_Lecture/facade/obj/Debug/netcoreapp3.1/facade.csprojAssemblyReference.cache
+/Users/nayyarz/Desktop/SIT232_T2_2020/CookFolder/W8/Demo_Lecture/facade/obj/Debug/netcoreapp3.1/facade.AssemblyInfoInputs.cache
+/Users/nayyarz/Desktop/SIT232_T2_2020/CookFolder/W8/Demo_Lecture/facade/obj/Debug/netcoreapp3.1/facade.AssemblyInfo.cs
+/Users/nayyarz/Desktop/SIT232_T2_2020/CookFolder/W8/Demo_Lecture/facade/obj/Debug/netcoreapp3.1/facade.csproj.CoreCompileInputs.cache
+/Users/nayyarz/Desktop/SIT232_T2_2020/CookFolder/W8/Demo_Lecture/facade/obj/Debug/netcoreapp3.1/facade.dll
+/Users/nayyarz/Desktop/SIT232_T2_2020/CookFolder/W8/Demo_Lecture/facade/obj/Debug/netcoreapp3.1/facade.pdb
+/Users/nayyarz/Desktop/SIT232_T2_2020/CookFolder/W8/Demo_Lecture/facade/obj/Debug/netcoreapp3.1/facade.genruntimeconfig.cache

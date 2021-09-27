@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\abstractfactory",
+    "\\facade",
+    "\\Final_File",
+    "\\Final_File\\ConsoleApp1",
+    "\\Final_File\\ConsoleApp1\\ConsoleApp1",
+    "\\observer",
+    "\\simplefactory",
+    "\\Singleton"
+  ],
+  "SelectedNode": "\\Singleton\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}
